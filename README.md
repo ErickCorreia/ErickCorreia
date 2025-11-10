@@ -14,6 +14,9 @@ Repositório para aprendizado
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
 ---
 
 ### 📊 Estatísticas do GitHub
