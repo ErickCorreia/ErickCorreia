@@ -1,8 +1,8 @@
 # BC-CEUB
 Repositório para aprendizado
-# Olá! 👋 Sou o Erick!
+# Olá!  🎶Sou o Erick!
 
-🎓 Estou no primeiro semestre da universidade, cursando Análise de Sistemas.   
+🎓 Estou no segundo semestre da universidade, cursando Análise de Sistemas.   
 💻 Apaixonado por aprender e evoluir no universo DEV!
 
 ### 🚀 Tecnologias que estou aprendendo:
@@ -35,5 +35,5 @@ Repositório para aprendizado
 
 ---
 
-> "Estudar é plantar sementes de futuro no presente." 🌱
+> "O esforço vence o talento." 🌱
 
