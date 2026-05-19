@@ -2,7 +2,7 @@
 Repositório para aprendizado
 # Olá!  🎶Sou o Erick!
 
-🎓 Estou no segundo semestre da universidade, cursando Análise de Sistemas.   
+🎓 Estou no terceiro semestre da universidade, cursando Análise de Sistemas.   
 💻 Apaixonado por aprender e evoluir no universo DEV!
 
 ### 🚀 Tecnologias que estou aprendendo:
