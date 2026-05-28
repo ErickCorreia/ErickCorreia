@@ -62,7 +62,7 @@ Entendimento profundo de arquitetura de computadores, redes e sistemas de comput
 ---
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWtyZW02N2JueTU5NW5ueXpmMTZ1dXQ5dXQ5eXFvcWUwMjRoenY1cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1CRLn4g4MiIyA/giphy.gif" width="100%"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFoZmZiYnZwdG9zaGJ1czl2d3ppZXk0Y29xeWJ3MzQ0MnV2cTUyMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rRiAe3dp5ajYtG9L7f/giphy.gif" width="100%"/>
 </div>
 
 ---
