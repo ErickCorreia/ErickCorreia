@@ -1,6 +1,13 @@
 # BC-CEUB
 Repositório para aprendizado
+
 # Olá!  🎶Sou o Erick!
+
+
+### 📊 Minhas Linguagens Mais Utilizadas
+
+[![Minhas Linguagens](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ErickCorreia&layout=compact&langs_count=6&theme=dracula&count_private=true)](https://github.com/ErickCorreia)
+
 
 🎓 Estou no terceiro semestre da universidade, cursando Análise de Sistemas.   
 💻 Apaixonado por aprender e evoluir no universo DEV!
