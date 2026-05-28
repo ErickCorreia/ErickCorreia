@@ -29,7 +29,6 @@ Gosto de entender como as coisas funcionam de ponta a ponta: desde a máquina on
 
 #### 💻 Engenharia de Software & Banco de Dados
 Focado no aprendizado de linguagens fortemente tipadas, orientação a objetos e manipulação de dados estruturados para a criação de aplicações.
-* **Linguagens e Lógicas:** JavaScript (ES6+), Java (POO)
 * **Persistência de Dados:** MySQL (Modelagem Relacional, Consultas e Estruturação) — *Curso em Vídeo*
 * **Metodologias:** Engenharia de Requisitos, Análise de Sistemas e Metodologias Ágeis
 
