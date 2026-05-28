@@ -15,7 +15,7 @@
 ### 👨‍💻 Sobre Meus Objetivos
 Estou no 3° semestre de **Análise e Desenvolvimento de Sistemas** no CEUB. Tenho uma base forte em hardware e design gráfico, e hoje estou focando essa experiência no desenvolvimento de software e na criação de sistemas.
 
-Gosto de entender como as coisas funcionam de ponta a ponta: desde a máquina onde o código roda (hardware), passando pela lógica do sistema (backend), até a interface que o usuário final vai mexer (UI/UX).
+Gosto de entender como as coisas funcionam de ponta a ponta: desde a máquina onde o código roda (hardware), passando pela lógica do sistema (backend), até a interface que o usuário final vai interagir (UI/UX).
 
 ---
 
